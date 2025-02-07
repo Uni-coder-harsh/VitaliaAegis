@@ -1,65 +1,52 @@
-# VitaliAegis
+# VitaliAegis 🚀
 
-## 🌟 Overview
-**VitaliAegis** is a personalized health recommendation platform designed for university students. It aims to promote a healthier lifestyle by providing tailored insights based on individual assessments. The platform focuses on improving students' well-being by analyzing their daily habits and offering actionable recommendations. Users can track their wellness goals, access AI-driven insights *(coming soon)*, and engage in self-improvement challenges.
+**VitaliAegis** is a personalized health recommendation platform designed for university students. It offers tailored health insights based on user input, enabling students to improve their well-being through AI-driven suggestions.
 
-🔗 **Live Demo:** [VitaliAegis](https://vitaliaegis.netlify.app/)
+## 🌟 Features
+- **Personalized Health Assessments** 🏥
+- **AI-driven Health Recommendations** 🤖
+- **Easy-to-use Interface** 🎯
+- **Data Security with Supabase** 🔒
+- **PDF Report Generation** 📄
+- **Responsive Design** 📱
 
----
+## 🔧 Tech Stack
+- **Frontend:** React, Vite, TailwindCSS
+- **Backend:** Supabase (PostgreSQL, Auth, Storage)
+- **AI Integration:** API-based AI model (Future: Custom ML Model)
 
-## 🚀 Features
-- 🩺 **Health Assessment** – Evaluate lifestyle habits through an intuitive form.
-- 🤖 **AI-Powered Insights** – Personalized health suggestions *(Coming Soon)*.
-- 📊 **User Dashboard** – Track daily progress and set wellness goals.
-- 🎯 **Goal Tracking** – Set fitness and wellness targets.
-- 🔄 **Daily Health Tips** – Receive AI-driven health suggestions.
-- 📚 **Educational Resources** – Access blogs, articles, and expert advice.
-- 🌍 **Responsive Design** – Optimized for desktop and mobile users.
-
----
-
-## 🛠 Tech Stack
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Node.js *(Planned)*
-- **AI Integration:** GPT-4 API *(Future Implementation)*
-- **Hosting:** Netlify
-
----
-
-## 🎯 Future Enhancements
-- 🔥 AI Chatbot for quick health queries and instant recommendations.
-- 🎯 Gamification – Challenges, streaks, and badges to motivate students.
-- 🏫 University-Specific Health Programs – Tailored recommendations based on university lifestyle trends.
-- 📊 Data-Driven Insights – Visual analytics for tracking long-term progress.
-- 🌐 Community Forum – A space for students to discuss health concerns and share wellness tips.
-
----
-
-## 📌 Setup Instructions
+## 🚀 Getting Started
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/vitaliaegis.git
+   ```sh
+   git clone https://github.com/Uni-coder-harsh/VitaliaAegis.git
    ```
-2. Navigate to the project folder:
-   ```bash
-   cd vitaliaegis
+2. Navigate to the project directory:
+   ```sh
+   cd VitaliaAegis
    ```
-3. Open `index.html` in your browser to preview the site.
+3. Install dependencies:
+   ```sh
+   npm install
+   ```
+4. Start the development server:
+   ```sh
+   npm run dev
+   ```
 
-*(Further setup steps will be added once backend integration begins.)*
-
----
-
-## 🤝 Contributing
-Contributions are welcome! Feel free to submit issues or pull requests.
-
----
+## 📌 Roadmap
+- [x] Health assessment feature
+- [ ] AI-based recommendation improvements
+- [ ] Mobile app version
+- [ ] Integration with wearables
+- [ ] Community and forum support
 
 ## 📜 License
-This project is licensed under the MIT License.
+This project is licensed under the **MIT License**.
 
----
+## 🤝 Contributing
+Contributions are welcome! Feel free to fork the repo and submit a pull request.
 
-### 🌟 Stay Connected
-For feedback or suggestions, contact me at **harsh06264@gmail.com** or connect via [LinkedIn](https://linkedin.com/in/harsh-rajput-530b31313).
-
+## 📬 Contact
+- **Developer:** Harsh
+- **Website:** [VitaliAegis](https://vitaliaegis.netlify.app/)
+- **LinkedIn:** [Harsh](https://linkedin.com/in/harsh-rajput-530b31313)

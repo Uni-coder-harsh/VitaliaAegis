@@ -61,5 +61,5 @@ This project is licensed under the MIT License.
 ---
 
 ### 🌟 Stay Connected
-For feedback or suggestions, contact me at **[Your Email]** or connect via [LinkedIn](https://linkedin.com/in/harsh-rajput-530b31313).
+For feedback or suggestions, contact me at **harsh06264@gmail.com** or connect via [LinkedIn](https://linkedin.com/in/harsh-rajput-530b31313).
 
